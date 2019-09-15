@@ -8,5 +8,5 @@ How to call a basic table view that displays an array of names.
 - Swift 5
 
 <p align="center">
-  <img src="Images/screenshot.png" width="350" title="hover text">
+  <img src="images/image1.png" width="350" title="Image 1">
 </p>
