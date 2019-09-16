@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController, UITableViewDataSource {
     
     //Array of people names
-    let people = ["Donald", "Declan", "Sean", "Pa", "Sam", "Jake", "Mia", "Daisy"]
+    let people = ["Donald", "Declan", "Charles", "Matt", "Ray", "Jake", "Mia", "Daisy"]
     
     //How many sections
     func numberOfSections(in tableView: UITableView) -> Int {
