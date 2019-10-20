@@ -4,7 +4,7 @@ How to call a basic table view that displays an array of names.
 
 ## Tech Specs
 
-- iOS 12.2
+- Supports iOS 12 and iOS 13
 - Swift 5
 
 <p align="center">
